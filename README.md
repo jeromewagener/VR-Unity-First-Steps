@@ -12,15 +12,15 @@ Try it for yourself!
 
 I made a short video around this project:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=o8jjGZf0Bl8" target="_blank"><img src="http://img.youtube.com/vi/o8jjGZf0Bl8/0.jpg" alt="Getting started with VR in Unity - What is VR Sickness?" width="240" height="180" border="10" /></a>
 
 ### Resources?
 
 The input handling comes straight from the documentation:
-https://docs.unity3d.com/Manual/xr_input.html
+* https://docs.unity3d.com/Manual/xr_input.html
 
 The character controller component integration is based on what is described in this video: 
-https://www.youtube.com/watch?v=_QajrabyTJc
+* https://www.youtube.com/watch?v=_QajrabyTJc
 
 Have a look at this Wikipedia article. My project might make you feel sick... :-)
-https://en.wikipedia.org/wiki/Virtual_reality_sickness
+* https://en.wikipedia.org/wiki/Virtual_reality_sickness
