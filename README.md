@@ -10,9 +10,11 @@ Try it for yourself!
 
 ### More Information?
 
-I made a short video around this project:
+I made a [short video](https://www.youtube.com/watch?v=o8jjGZf0Bl8) around this project:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=o8jjGZf0Bl8" target="_blank"><img src="http://img.youtube.com/vi/o8jjGZf0Bl8/0.jpg" alt="Getting started with VR in Unity - What is VR Sickness?" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=o8jjGZf0Bl8" target="_blank">
+  <img src="http://img.youtube.com/vi/o8jjGZf0Bl8/0.jpg" alt="Getting started with VR in Unity - What is VR Sickness?" width="320" height="240" border="10" />
+</a>
 
 ### Resources?
 
